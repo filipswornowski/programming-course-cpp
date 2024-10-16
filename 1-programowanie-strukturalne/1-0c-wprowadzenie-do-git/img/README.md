@@ -1,6 +1,6 @@
-# \<Nazwa repozytorium  >
+# \<nauka-cpp  >
 
-`<Imię i nazwisko autora> <data stworzenia>`
+`<Filip Swornowski> <16.10.2024>`
 
 ## Opis
 
